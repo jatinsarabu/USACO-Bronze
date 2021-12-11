@@ -1,2 +1,2 @@
 # USACO-Bronze
-My solutions for USACO Bronze problems.
+My solutions for USACO Bronze problems in python.
