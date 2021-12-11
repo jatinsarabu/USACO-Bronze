@@ -1,3 +1,4 @@
+#Problem Link:http://www.usaco.org/index.php?page=viewproblem2&cpid=759
 with open ("billboard.in", "r")as f: 
   b1 = [int(x) for x in f.readline().split()]
   b2 = [int(x) for x in f.readline().split()]
