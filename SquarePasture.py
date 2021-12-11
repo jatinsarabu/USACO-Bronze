@@ -1,3 +1,4 @@
+#Problem Link:http://www.usaco.org/index.php?page=viewproblem2&cpid=663 
 with open ("square.in") as f: 
   a = [int(x) for x in f.readline().split()]
   b = [int(x) for x in f.readline().split()]
